@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [sandhya yalamuri]
+- Your Name : [sandhya yalamuri( https://www.linkedin.com/in/sandhya-yalamuri-798338286/)]
 - Email: [sandhya yalamuri(sandhyayalamuri03@gmail.com)
 
 ---
